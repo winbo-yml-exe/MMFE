@@ -97,7 +97,7 @@
     <string name="pref_primary_folder">Persönlicher Ordner</string>
     <string name="pref_read_root">Root lesen</string>
     <string name="pref_show_real_path">Echten Pfad anzeigen</string>
-    <string name="default_primary_folder">/mnt/sdcard</string>
+    <string name="default_primary_folder">/sdcard</string>
     <string name="pref_primary_folder_summary">Der Ordner wird angezeigt, wenn die App gestartet wird, aktuell ist das <xliff:g id="string">%1$s</xliff:g></string>
     <string name="pref_show_real_path_summary">Echten Pfad in der Navigationsleiste anzeigen</string>
 

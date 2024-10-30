@@ -98,7 +98,7 @@
     <string name="pref_primary_folder">Archivo principal</string>
     <string name="pref_read_root">Lectura de archivo raíz</string>
     <string name="pref_show_real_path">Mostrar ruta real</string>
-    <string name="default_primary_folder">/mnt/sdcard</string>
+    <string name="default_primary_folder">/sdcard</string>
     <string name="pref_primary_folder_summary">El folder que se muestra cuando la aplicación inicia y su valor es <xliff:g id="string">%1$s</xliff:g></string>
     <string name="pref_show_real_path_summary">Mostrar ruta real en la barra de navegación</string>
 

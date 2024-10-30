@@ -97,7 +97,7 @@
     <string name="pref_primary_folder">Домашняя папка</string>
     <string name="pref_read_root">Чтение root</string>
     <string name="pref_show_real_path">Отобразить реальный путь</string>
-    <string name="default_primary_folder">/mnt/sdcard</string>
+    <string name="default_primary_folder">/sdcard</string>
     <string name="pref_primary_folder_summary">Папка, которая появляется при запуске приложения <xliff:g id="string">%1$s</xliff:g></string>
     <string name="pref_show_real_path_summary">Показать реальный путь в панели навигации</string>
 
