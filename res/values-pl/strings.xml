@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="added_favorite">Dodano do ulubionych</string>
+    <string name="app_name">MMFE</string>
+    <string name="cancel">Anuluj</string>
+    <string name="category_all">Wszystkie</string>
+    <string name="category_apk">Pliki .APK</string>
+    <string name="category_document">Dokumenty</string>
+    <string name="category_favorite">Ulubione</string>
+    <string name="category_music">Muzyka</string>
+    <string name="category_other">Inne</string>
+    <string name="category_picture">Zdjęcia</string>
+    <string name="category_theme">Motywy</string>
+    <string name="category_video">Filmy</string>
+    <string name="category_zip">Pliki .ZIP</string>
+    <string name="confirm">OK</string>
+    <string name="confirm_know">OK</string>
+    <string name="enable_sd_card">Karta SD jest niedostępna, proszę ją włożyć</string>
+    <string name="error_info_cant_send_folder">Nie można wysłać folderu</string>
+    <string name="fail_to_create_folder">Nie można utworzyć folderu, ponieważ istnieje folder o takiej samej nazwie</string>
+    <string name="fail_to_rename">Nie można zmienić nazwy folderu lub pliku, ponieważ istnieje folder o tej samej nazwie</string>
+    <string name="file_info_canread">Prawo do odczytu:</string>
+    <string name="file_info_canwrite">Prawo do zapisu:</string>
+    <string name="file_info_ishidden">Ukryte:</string>
+    <string name="file_info_location">Ścieżka:</string>
+    <string name="file_info_modified">Zmodyfikowany:</string>
+    <string name="file_info_size">Rozmiar:</string>
+    <string name="file_size">%d bajtów</string>
+    <string name="install_failed">Instalacja nieudana</string>
+    <string name="install_successful">Instalacja zakończona sukcesem</string>
+    <string name="instruction">Wprowadź następujący adres w kliencie FTP:</string>
+    <string name="instruction_pre">Uruchom serwis, aby włączyć serwer FTP</string>
+    <string name="menu_item_search">Szukaj</string>
+    <string name="menu_item_sort">Sortuj według</string>
+    <string name="menu_item_sort_date">Data</string>
+    <string name="menu_item_sort_name">Nazwa</string>
+    <string name="menu_item_sort_size">Rozmiar</string>
+    <string name="menu_item_sort_type">Typ danych</string>
+    <string name="new_folder_name">Nowy folder</string>
+    <string name="no">Nie</string>
+    <string name="no_file">Brak plików</string>
+    <string name="no_wifi">Brak Wi-Fi</string>
+    <string name="no_wifi_hint">Brak Wi-Fi, sprawdź ustawienia Wi-Fi</string>
+    <string name="notif_server_starting">Serwer FTP uruchomiony</string>
+    <string name="notif_title">Serwer FTP</string>
+    <string name="operation_cancel">Anuluj</string>
+    <string name="operation_cancel_selectall">Odznacz wszystko</string>
+    <string name="operation_copy">Kopiuj</string>
+    <string name="operation_copy_path">Kopiuj ścieżkę pliku</string>
+    <string name="operation_create_folder">Nowy folder</string>
+    <string name="operation_create_folder_message">Wprowadź nazwę folderu</string>
+    <string name="operation_delete">Usuń</string>
+    <string name="operation_delete_confirm_message">Potwierdzić usunięcie?</string>
+    <string name="operation_deleting">Usuwanie...</string>
+    <string name="operation_favorite">Dodaj do ulubionych</string>
+    <string name="operation_hide_sys">Ukryj pliki systemowe</string>
+    <string name="operation_info">Szczegóły</string>
+    <string name="operation_move">Przenieś</string>
+    <string name="operation_moving">Przenoszenie...</string>
+    <string name="operation_paste">Wklej</string>
+    <string name="operation_pasting">Wklejanie...</string>
+    <string name="operation_refresh">Odśwież</string>
+    <string name="operation_rename">Zmień nazwę</string>
+    <string name="operation_rename_message">Wprowadź nową nazwę</string>
+    <string name="operation_selectall">Zaznacz wszystko</string>
+    <string name="operation_send">Wyślij</string>
+    <string name="operation_show_sys">Pokaż pliki systemowe</string>
+    <string name="operation_unfavorite">Usuń z ulubionych</string>
+    <string name="removed_favorite">Usunięto z ulubionych</string>
+    <string name="sd_card_available">Dostępna pamięć:<xliff:g id="available_size">%1$s</xliff:g></string>
+    <string name="sd_card_size">Karta SD:<xliff:g id="total_size">%1$s</xliff:g></string>
+    <string name="sd_folder">Karta SD</string>
+    <string name="search_hint">Szukaj plików</string>
+    <string name="search_title">Szukaj plików</string>
+    <string name="start_server">Uruchom usługę</string>
+    <string name="stop_server">Zatrzymaj usługę</string>
+    <string name="storage_warning">Pamięć zewnętrzna niedostępna lub nie można jej odczytać</string>
+    <string name="tab_category">Przeglądaj</string>
+    <string name="tab_remote">FTP</string>
+    <string name="tab_sd">Plik</string>
+    <string name="wifi_state">Status Wi-Fi</string>
+    <string name="yes">Tak</string>
+    <string name="dialog_select_type">Wybierz typ pliku</string>
+    <string name="dialog_type_text">Tekst</string>
+    <string name="dialog_type_audio">Audio</string>
+    <string name="dialog_type_video">Wideo</string>
+    <string name="dialog_type_image">Obraz</string>
+    <string name="favorite_photo">Zdjęcie</string>
+    <string name="favorite_sdcard">Karta SD</string>
+    <string name="favourite_root">Root</string>
+    <string name="favorite_screen_cap">Zrzut ekranu MIUI</string>
+    <string name="favorite_ringtone">Dzwonek</string>
+    <string name="multi_select_title"><xliff:g id="number">%1$s</xliff:g> elementów wybranych</string>
+    <string name="menu_setting">Ustawienia</string>
+    <string name="menu_exit">Wyjdź</string>
+    <string name="preference_title">Ogólne ustawienia</string>
+    <string name="pref_primary_folder">Folder osobisty</string>
+    <string name="pref_read_root">Odczytaj root</string>
+    <string name="pref_show_real_path">Pokaż prawdziwą ścieżkę</string>
+    <string name="default_primary_folder">/sdcard</string>
+    <string name="pref_primary_folder_summary">Folder będzie wyświetlany po uruchomieniu aplikacji, obecnie jest to <xliff:g id="string">%1$s</xliff:g></string>
+    <string name="pref_show_real_path_summary">Pokaż prawdziwą ścieżkę w pasku nawigacji</string>
+
+</resources>
